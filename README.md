@@ -1,4 +1,4 @@
-# Daily SP500_historical_components since 1/1/2000 (with current updated tickers)
+# R code to build snapshot of the S&P500 historical daily components since 1/1/2000 (with current updated tickers)
 
 This file contains a R code to build the daily S&P 500 components since 1/1/2000
 The output is a matrix:
