@@ -6,4 +6,4 @@ i. rows are tickers
 ii. columns are dates
 iii. matrix has 1's if ticker was present in that day, or 0's otherwise
 
-The source is a combination of Wikipedia, Yahoo Finance, Bloomberg and extensive research I did individually to make all sources consistent
+The source is a combination of Wikipedia, Yahoo Finance, Bloomberg and extensive research I did on a stock-by-stock basis (press, etc.) to make all sources consistent
